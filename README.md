@@ -9,6 +9,7 @@ My current plans are to develop new features according to my personal priority, 
 2. Corporation interface
 3. Industry interface
 4. PI interface
+
 Apart from **1**, however, these aren't really high in my list of priorities so feel free to request new features if you find this useful.
 
 I don't feel the interface is up to standard for publishing v1, so it is not yet available as an npm package. When that happens, I'll update the readme with instructions.
