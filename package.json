@@ -1,0 +1,36 @@
+{
+  "name": "eve-js-interface",
+  "version": "0.1.0",
+  "description": "interface for interacting with eve swagger api through javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roloza7/eve-js-interface.git"
+  },
+  "keywords": [
+    "eve",
+    "eve-online",
+    "eve-api-interface",
+    "js",
+    "javascript"
+  ],
+  "author": "Rodrigo Loza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roloza7/eve-js-interface/issues"
+  },
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "homepage": "https://github.com/roloza7/eve-js-interface#readme",
+  "devDependencies": {
+    "three": "^0.129.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0"
+  }
+}
